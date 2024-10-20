@@ -73,7 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries, please reach out to:
 
 - **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/chrohangurjar1)
+- **GitHub**: [Rohan Naagar](https://github.com/chrohangurjar1)
 
 ---
 
