@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    background-color: #ffffff;
+}
+
+input[type="text"] {
+    border-radius: 0.25rem;
+}
