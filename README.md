@@ -1,9 +1,9 @@
 
 ---
 
-# 🎓 School Management System 📚
+# 🎓 Student Management System 📚
 
-Welcome to the **School Management System**! This application is designed to help you manage student records easily and efficiently. Built with **Flask**, it provides a clean and intuitive interface for adding and viewing students.
+Welcome to the **student management system**! This application is designed to help you manage student records easily and efficiently. Built with **Flask**, it provides a clean and intuitive interface for adding and viewing students.
 
 ---
 
