@@ -13,6 +13,11 @@ Welcome to the **School Management App**! This application is designed to help y
 - **🗃️ In-memory Database**: For demonstration purposes, student data is stored in memory.
 
 ---
+## 📸 Demo
+
+![Demo of Hand Gesture Detection](OIP.jpeg)  
+*Watch how the system detects hand landmarks in real-time!*
+---
 
 ## ⚙️ Technologies Used
 
