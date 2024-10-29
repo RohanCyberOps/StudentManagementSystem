@@ -18,7 +18,7 @@ Welcome to the **School Management System**! This application is designed to hel
 
 ## 📸 Demo
 
-![Demo of School Management App](OIP.jpeg)  
+![Demo of School Management App](sys.png)  
 *Experience how the app simplifies student management!*
 
 ---
