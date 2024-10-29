@@ -42,7 +42,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/chrohangurjar1/school_management_app.git
+git clone https://github.com/chrohangurjar1/StudentManagementSystem.git
 cd school_management_app
 ```
 
