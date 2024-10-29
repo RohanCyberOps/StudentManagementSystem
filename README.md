@@ -1,7 +1,9 @@
 
+---
+
 # 🎓 School Management App 📚
 
-Welcome to the **School Management App**! This application is designed to help you manage student records easily and efficiently. Built with **Flask**, this app provides a clean and intuitive interface for adding and viewing students.
+Welcome to the **School Management App**! This application is designed to help you manage student records easily and efficiently. Built with **Flask**, it provides a clean and intuitive interface for adding and viewing students.
 
 ---
 
@@ -13,10 +15,12 @@ Welcome to the **School Management App**! This application is designed to help y
 - **🗃️ In-memory Database**: For demonstration purposes, student data is stored in memory.
 
 ---
+
 ## 📸 Demo
 
-![Demo of Hand Gesture Detection](OIP.jpeg)  
-*Watch how the system detects hand landmarks in real-time!*
+![Demo of School Management App](OIP.jpeg)  
+*Experience how the app simplifies student management!*
+
 ---
 
 ## ⚙️ Technologies Used
@@ -102,9 +106,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries, please reach out to:
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
+- **Rohan Naagar**: [your.email@example.com](mailto:your.email@example.com)
 - **GitHub**: [Rohan Naagar](https://github.com/chrohangurjar1)
 
 ---
 
 Thank you for checking out the School Management App! We hope it helps you manage student records efficiently. 🚀
+
+---
